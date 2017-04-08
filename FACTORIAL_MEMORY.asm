@@ -1,11 +1,4 @@
 
-PRINTZ MACRO X
-    
-
-    
-ENDM
-
-
 M_XDATA SEGMENT 
       
       ALGDGADU DB ?
